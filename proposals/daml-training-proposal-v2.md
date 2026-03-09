@@ -1,7 +1,7 @@
 ## Development Fund Proposal
 
 **Author:** Ryan Wishnow  
-**Status:** Submitted
+**Status:** Submitted </br>
 **Created:** 2026-02-25
 
 ---
