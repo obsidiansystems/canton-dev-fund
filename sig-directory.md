@@ -70,6 +70,7 @@ If your expertise does not fit an existing SIG, feel free to submit a Pull Reque
 | Joel Lovera | Digital Asset | joel-da| 
 | Marc Juchli | Digital Asset | mjuchli-da |
 | Matthieu Le Berre | Peaceful Studio | monsieurleberre |
+| Jaroslaw Ratajski | Digital Asset | jarekr-da |
 | Michael Gaare | Denex / Cumberland | mgaare
 | Phillip Olesen | Digital Asset | PHOL-DA
 | Vinh | Five North | v9n
@@ -198,6 +199,9 @@ If your expertise does not fit an existing SIG, feel free to submit a Pull Reque
 | Edward Newman | Digital Asset | nycnewman |
 | Marcin Ziolek | Digital Asset | mziolekda |
 | Matthieu Le Berre | Peaceful Studio | monsieurleberre |
+| Curtis Hrischuk | Digital Asset | hrischuk-da |
+| Marcin Ziolek | Digital Asset | mziolekda |
+| Paul Brauner | Digital Asset | paulbrauner-da |
 | Paul Brauner | Digital Asset | paulbrauner-da |
 | Srikanth | BitDynamics | srikanth-bitdynamics |
 | Vinh | Five North | v9n |
@@ -216,6 +220,7 @@ If your expertise does not fit an existing SIG, feel free to submit a Pull Reque
 | Matthieu Le Berre | Peaceful Studio | monsieurleberre |
 | Moritz Kiefer | Digital Asset | moritzkiefer-da |
 | Tudor Voicu | Digital Asset | tudor-da |
+| Paul Brauner | Digital Asset | paulbrauner-da |
 | Zhe Li | Gateway.FM | zheli |
 
 ---
@@ -228,6 +233,9 @@ If your expertise does not fit an existing SIG, feel free to submit a Pull Reque
 | Rafael Guglielmetti | Digital Asset |  |
 | Shaul Kfir | Digital Asset | shaul-da |
 | Vinh | Five North | v9n |
+| Curtis Hrischuk | Digital Asset | hrischuk-da |
+| Remy Haemmerle | Digital Asset | remyhaemmerle-da |
+| Rafael Guglielmetti | Digital Asset | rgugliel-da | 
 
 ---
 
@@ -271,7 +279,7 @@ If your expertise does not fit an existing SIG, feel free to submit a Pull Reque
 | Name | Organization | GitHub |
 |-----|-----|-----|
 | Marton Nagy | Digital Asset | nmarton-da |
-| Tom Tantillo | Digital Asset |  |
+| Tom Tantillo | Digital Asset | tom-da |
 
 ---
 
