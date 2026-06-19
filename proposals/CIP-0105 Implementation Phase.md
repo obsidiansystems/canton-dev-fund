@@ -8,7 +8,7 @@
 
 **Implements:** CIP-0105 and CIP-0116
 
-**Champion:** Ali Abrar @ali-abrar
+**Champion:** Wayne Collier @waynecollier-da (Digital Asset)
 
 ---
 
